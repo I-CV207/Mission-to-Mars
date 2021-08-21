@@ -52,5 +52,5 @@ def scrape():
 # Finally, we will add a redirect after successfully scraping the data: 
 # return redirect('/', code=302). This will navigate our page back to / where 
 # we can see the updated content. 
-if __name__=="main":
+if __name__=="__main__":
     app.run()  
