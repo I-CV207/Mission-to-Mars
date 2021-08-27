@@ -2,9 +2,9 @@
 
 ## Overview
 
-The purpose of this project is to do web scraping on a few websites to obtain data, images URLS, news URLS and so on that are related to the planet Mars. The obtained information is going to be integrated into an app and lastly do some stetics changes on the app to make it presentabble.
+The purpose of this project is to do web scraping on a few websites to obtain data, images URLS, news URLS and so on that are related to the planet Mars. The obtained information is going to be integrated into an app and lastly do some stetics changes on the app to make it presentable.
 
-Overall the following points were covered in order to develop this project:
+Overall, the following points were covered in order to develop this project:
 
 - Coding of web scrapping functions to navigate through the required websites.
 - Integration of the functions into an app.
