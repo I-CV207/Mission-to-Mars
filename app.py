@@ -1,6 +1,6 @@
 #We will use Falsk to render a template, redirecting to another URL and creating an URL
 from flask import Flask, render_template, redirect, url_for
-#We will use Pymongo to interact with our mongo database
+#We will use pymongo to interact with our mongo database
 from flask_pymongo import PyMongo
 #To use the scrapping code, we will convert from jupyter notebook to Python
 import scraping
